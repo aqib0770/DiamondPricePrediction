@@ -1,3 +1,0 @@
-If the python script is giving error though it is correct while running,
-use python -m switch.
-For example python -m src.pipelines.training_pipeline
